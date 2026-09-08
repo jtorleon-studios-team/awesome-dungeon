@@ -1,6 +1,6 @@
 ## Intro :
 
-Transform your Minecraft world with a variety of exciting and diverse dungeons scattered across the overworld! Each dungeon is meticulously designed to offer an immersive exploration experience, filled with hidden loot, challenging mobs, and dynamic environments. Whether you’re navigating through lush jungles, arid deserts, or eerie swamps, these dungeons bring new challenges and rewards for players looking to expand their adventure.
+This mod adds a variety of structures and dungeons to your overworld, enriching your exploration experience. The dungeons are designed with mob spawners and chests containing loot, providing resources and opportunities to interact with the environment.
 
 - 🌳 The Giant Jungle Tree
 - 🏯 Abandoned Oak Palace
